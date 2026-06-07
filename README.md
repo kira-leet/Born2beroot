@@ -427,6 +427,6 @@ df -h
 
 *Built entirely through the terminal. No GUI. No shortcuts.*
 
-**42 School — Born2beroot**
+**Born2beroot**
 
 </div>
